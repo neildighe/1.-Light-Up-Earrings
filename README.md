@@ -1,3 +1,9 @@
+![Captur4e](https://user-images.githubusercontent.com/72219191/132460945-4b1eeaf4-f640-41f7-ac4c-df7d8c1afbe6.PNG)
+![Capture](https://user-images.githubusercontent.com/72219191/132460947-11790547-2e66-4fbc-a39b-7a198bd49039.PNG)
+![Capture1](https://user-images.githubusercontent.com/72219191/132460948-29fb9e2b-2a35-4e9e-9723-9c7d7dfb65fd.PNG)
+![Capture2](https://user-images.githubusercontent.com/72219191/132460950-31920d0a-cfdb-4daa-bacf-914b1f1af1a3.PNG)
+![Cap5ture](https://user-images.githubusercontent.com/72219191/132460951-1976abd3-c54c-4082-ac5d-051f74ce1c51.PNG)
+![Captur3e](https://user-images.githubusercontent.com/72219191/132460952-eb8fce20-699c-4ba9-985c-e42c1611e840.PNG)
 # Glowing Earings    
 
 ## Project Overview
