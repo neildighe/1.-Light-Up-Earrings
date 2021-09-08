@@ -20,6 +20,7 @@ The electrical components of the earring needed to be as brain-dead simple as po
 
 To allow the LEDs to be replacable (for both servicability as a well as color choice) I decided to use the LED probes as their own retention mechanism. I designed the cahssis to accept slightly bent in probes. These appleid enough tension to keep consistent contact with the sides of the LED faces.
 
+For the LEDS I went with an assortment of solid colored 5mm LEds as well as a pack of RGB cycling LEDS. The only problem I had using this form factor of LED was that the "purple" LEDs were actually UV. These require  more than 3.3 volts to power to full brightness. This meant that batteries wear out faster and the LED glows dimmer than the other colors. **This sucks since my girlfriend's favorite color is purple. :(** 
 ### Securing Devices 
 
 My acrylic designs used two diffrent systems for securing the two halves of the earrings together. The first was two random computer screws self-tapped into the acrylic. These were very bulky, easilly chipped the acrylic, and were not long enough to solidly hold together the halves. After running out of screws (a lack of matching screws and losing multiple) I decided to use another system. 
@@ -29,11 +30,33 @@ My next design used small rare-earth magnets. These were much cleaner, but added
 
 ## 3D Printed Design 
   
-After my acrylic designs showed potential but significant issues in almost every aspect I decided to use my 3D printer. This meant that I had to print 20+ variations to finure out the correct tolerances, printing settings, and infil patterns. 
+After my acrylic designs showed potential but significant issues in almost every aspect I decided to use my 3D printer. This meant that I had to print 20+ variations to finure out the correct tolerances, printing settings, and infill patterns. the 3D printer and its glass beead also allowed me to not need to worry about surface finsih and have a smooth polished feel straight off the printer. 
 
 ### Design Changes
 
-The 3D printer allowed me to do much more complex designs that had much better tollerances while using less material. I ended up trying to target 
+The 3D printer allowed me to do much more complex designs that had much better tollerances while using less material. I ended up trying to target 6 grams per earring. The 3D printed designs were all made in Soldiworks and featured very thin features. These had to be kept to a minimum thickness of .4mm due to the 3D printer's nozzle. I was able to drastically slim down the design of the earrings, which was needed. 
+
+The 3D designs allowed for M2 nuts nuts and bolts to be inset into the chassis. I made many variations with pockets for the nuts, but ended up using self-tapped holes instead. The nuts added uneeded weight as well and requred much higher tolerances than the rest of the design. The self tapped holes were very strong and i dont think that they will wear out.
+
+The 3D printer allowed me also create much more precise holes for the LED probes. This allowed for a much more secure fit of the LED and the ability to create LED diffusers that wrapped around the chassis. 
+
+The final 3D printed designs were held together by the earring ring and hook. This combined with tight tolerances means that the earring can be completly opened for service without any parts falling off the assembly. This makes the design much more user freindly. 
+
+The 3D printer also allowed me to use infil to help hide the battery and capture some light from the LED diffusers. I used 30% gyroid infil for both sides of the chassis. 
+
+## LED Diffuser Designs 
+
+I started out with a simple traingle made of acrylic with a hole drilled into it for the LED. This triangle was then sanded on all faces to allow it to diffuse the LED.
+
+AFter switching to 3D printed designs I created 3 designs: a "foxhead", teardrop, and cicular design. I did not do any surface finishing to the parts since I was worried that I would over sand and ruin the tolerances and create lopsided faces. The diffuseers look somewhat unfinished when not lit up. When lit-up however they all have their own characteristcs and look great.
+
+The diffusers all friction fit onto the LEDs and have a satisfying snap or "push" depending on what type of LED is used. Finding the correct dimensions for the hole took quite a few iterations. 
+
+I ended up either using 80% or 100% gyroid infill for the diffusers. 
+
+
+
+
 ![130743539-ade6c9be-96bd-4a4f-a0a9-d0192c035174](https://user-images.githubusercontent.com/72219191/131619876-661e7572-c2b4-4bfb-91dd-d0bbbbd9c7ce.jpg)
 ![130743514-f54b9904-02d2-4719-9709-0f4fdf797280](https://user-images.githubusercontent.com/72219191/131620201-bb4ef7cc-a2a7-4741-91a1-d8d4bc569340.jpg)
 ![130743512-1178fd71-5b35-4df1-ae26-d2a1c7a6f4b8](https://user-images.githubusercontent.com/72219191/131619879-424537a5-5d60-4b0d-91ac-00bb52923c2d.jpg)
