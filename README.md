@@ -1,9 +1,4 @@
-![Captur4e](https://user-images.githubusercontent.com/72219191/132460945-4b1eeaf4-f640-41f7-ac4c-df7d8c1afbe6.PNG)
-![Capture](https://user-images.githubusercontent.com/72219191/132460947-11790547-2e66-4fbc-a39b-7a198bd49039.PNG)
-![Capture1](https://user-images.githubusercontent.com/72219191/132460948-29fb9e2b-2a35-4e9e-9723-9c7d7dfb65fd.PNG)
-![Capture2](https://user-images.githubusercontent.com/72219191/132460950-31920d0a-cfdb-4daa-bacf-914b1f1af1a3.PNG)
-![Cap5ture](https://user-images.githubusercontent.com/72219191/132460951-1976abd3-c54c-4082-ac5d-051f74ce1c51.PNG)
-![Captur3e](https://user-images.githubusercontent.com/72219191/132460952-eb8fce20-699c-4ba9-985c-e42c1611e840.PNG)
+
 # Glowing Earings    
 
 ## Project Overview
@@ -48,7 +43,11 @@ The 3D printer allowed me also create much more precise holes for the LED probes
 
 The final 3D printed designs were held together by the earring ring and hook. This combined with tight tolerances means that the earring can be completly opened for service without any parts falling off the assembly. This makes the design much more user freindly. 
 
-The 3D printer also allowed me to use infil to help hide the battery and capture some light from the LED diffusers. I used 30% gyroid infil for both sides of the chassis. 
+The 3D printer also allowed me to use infil to help hide the battery and capture some light from the LED diffusers. I used 30% gyroid infil for both sides of the chassis.
+
+![Capture1](https://user-images.githubusercontent.com/72219191/133000500-8461e324-5bf4-4049-aca6-04bbe6bb0fe2.PNG)
+![Capture](https://user-images.githubusercontent.com/72219191/133000495-bba98bd0-55fc-4320-81e6-3f03e4172cb9.PNG)
+![Capture2](https://user-images.githubusercontent.com/72219191/133000464-656ec75f-c3f1-4da4-9e45-4ab98a78e1ca.PNG)
 
 ## LED Diffuser Designs 
 
