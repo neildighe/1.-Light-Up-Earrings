@@ -1,6 +1,8 @@
 
 # Glowing Earings    
 
+![130743502-4d3e4393-e0c3-4c22-a5b3-375d550cd5b7](https://user-images.githubusercontent.com/72219191/133019025-9370bce6-2b1d-479c-8323-1afc08ca9c91.jpg)
+
 ## Project Overview
 
 I came up with the proejct after thinking about cool jewlwery I c ould make for my girlfreind. I had thought that earring were always a formfactor which I could do something cool with. I had wanted to make the earring as simple as possible to use, dissasemble, service, and find replacment parts for. I think I was sucessful in all these aspects as well as creating cool and intreguing statment peices. 
@@ -53,7 +55,12 @@ The 3D printer also allowed me to use infil to help hide the battery and capture
 ![Capture2](https://user-images.githubusercontent.com/72219191/133000464-656ec75f-c3f1-4da4-9e45-4ab98a78e1ca.PNG)
 
 **^(Views of the inside of both halves or the earrings. The third image shows the bottom of the battery casing, which has two holes on either side of the battery for the LED probes to be insterted.)**
+
 ## LED Diffuser Designs 
+
+![130743539-ade6c9be-96bd-4a4f-a0a9-d0192c035174](https://user-images.githubusercontent.com/72219191/133017091-49b03cac-d39d-4ee1-9199-a2219fb06b9d.jpg)
+
+**^(This image shows all of the diffrent diffuser designs which were used to experiment with many diffrent print settings. In the bottom right you can see the test jig use to find the correct tolerances for the LED hole in the diffusers.)**
 
 I started out with a simple traingle made of acrylic with a hole drilled into it for the LED. This triangle was then sanded on all faces to allow it to diffuse the LED.
 
@@ -63,14 +70,15 @@ The diffusers all friction fit onto the LEDs and have a satisfying snap or "push
 
 I ended up either using 80% or 100% gyroid infill for the diffusers. 
 
+##Conclusion
+Overall I fell like the project was an overwellming success. Although starting I felt that the project may hit a dead end, the transition to 3D printing really allowed me to perfect my design and create a well thought out piece of jewlery. 
 
 
+## Photo Gallery
 
-![130743539-ade6c9be-96bd-4a4f-a0a9-d0192c035174](https://user-images.githubusercontent.com/72219191/131619876-661e7572-c2b4-4bfb-91dd-d0bbbbd9c7ce.jpg)
+
 ![130743514-f54b9904-02d2-4719-9709-0f4fdf797280](https://user-images.githubusercontent.com/72219191/131620201-bb4ef7cc-a2a7-4741-91a1-d8d4bc569340.jpg)
 ![130743512-1178fd71-5b35-4df1-ae26-d2a1c7a6f4b8](https://user-images.githubusercontent.com/72219191/131619879-424537a5-5d60-4b0d-91ac-00bb52923c2d.jpg)
 ![130743520-3c0bfa15-2930-4da0-a79b-4f76a91ac0bd](https://user-images.githubusercontent.com/72219191/131619889-cc9aec52-554c-4503-8f80-65afdc7a4eff.jpg)
-![130743502-4d3e4393-e0c3-4c22-a5b3-375d550cd5b7](https://user-images.githubusercontent.com/72219191/131619891-8fe925b0-35ee-43c5-b97d-26b1eed46d33.jpg)
-![130743511-2d8a9228-7e5c-4444-aeba-d1b3737168b6](https://user-images.githubusercontent.com/72219191/131619892-55897140-29a1-44f9-8b9b-02894bd72d46.jpg)
 
 
