@@ -70,7 +70,7 @@ The diffusers all friction fit onto the LEDs and have a satisfying snap or "push
 
 I ended up either using 80% or 100% gyroid infill for the diffusers. 
 
-##Conclusion
+## Conclusion
 Overall, I felt like the project was an overwhelming success. Although starting I felt that the project may hit a dead end, the transition to 3D printing really allowed me to perfect my design and create a well thought out piece of jewelry. 
 
 
