@@ -5,17 +5,11 @@
 
 ## Project Overview
 
-I came up with the project after thinking about cool jewelry I could make for my girlfriend.I had wanted to make the earring as simple as possible to use, disassemble, service, and find replacement parts for. I think I was successful in all these aspects as well as in creating cool and intriguing statement pieces. 
-
-## First Design 
-
-My first design was very crude and failed in almost every aspect, but it was a great stepping off point and allowed me to see that the project had potential. 
+I came up with the project after thinking about cool jewelry I could make for my girlfriend.I had wanted to make the earring as simple as possible to use, disassemble, service, and find replacement parts for. I think I was successful in all these aspects as well as in creating cool and intriguing statement pieces.
 
 ### Material Choice and Design 
 
-I used acrylic for the first design since I did not want to have to deal with my 3D-Printer. I used a bandsaw and disk sander to create the basic shapes. I wanted to stick to straight lines since it was easy to fabricate and evoked a glowing mineral vibe. I used a router to carve out space for the battery. All of these fabrication techniques lacked precision and produced a very crude looking chassis. As well the design was clear, not translucent. This meant that the battery was part of the earring in a way that made the design look over complicated instead of intriguing. The channels that the led probes slid into were cut using a Dremel. This looked ugly when fully assembled and only added to the messing look. The dremmeled out channels were also very finicky and unable to provide enough clamping force to create a solid connection between the battery faces and the probes. 
-
-everything except the overall design language of the initial design would be replaced with much more robust choices in the following iterations. 
+I used acrylic for the first design since I did not want to have to deal with my 3D printer. This material made the main housing clear, which fully showed the battery and was a poor diffuser of light. The acrylic was also unable to provide enough clamping force to create a solid connection between the battery faces and the probes. 
 
 ### Electrical Components 
 
