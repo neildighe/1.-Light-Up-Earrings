@@ -1,5 +1,5 @@
 
-# Glowing Earrings    
+# Light Up Earings    
 
 ![130743502-4d3e4393-e0c3-4c22-a5b3-375d550cd5b7](https://user-images.githubusercontent.com/72219191/133019025-9370bce6-2b1d-479c-8323-1afc08ca9c91.jpg)
 
