@@ -3,7 +3,6 @@
 
 ![130743502-4d3e4393-e0c3-4c22-a5b3-375d550cd5b7](https://user-images.githubusercontent.com/72219191/133019025-9370bce6-2b1d-479c-8323-1afc08ca9c91.jpg)
 
-## Project Overview
 
 I came up with the project after thinking about cool jewelry I could make for my girlfriend.I had wanted to make the earring as simple as possible to use, disassemble, service, and find replacement parts for. I think I was successful in all these aspects as well as in creating cool and intriguing statement pieces.
 
