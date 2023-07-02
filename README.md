@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-I came up with the project after thinking about cool jewelry I could make for my girlfriend. I had thought that earring was always a formfactor which I could do something cool with. I had wanted to make the earring as simple as possible to use, disassemble, service, and find replacement parts for. I think I was successful in all these aspects as well as creating cool and intriguing statement pieces. 
+I came up with the project after thinking about cool jewelry I could make for my girlfriend.I had wanted to make the earring as simple as possible to use, disassemble, service, and find replacement parts for. I think I was successful in all these aspects as well as in creating cool and intriguing statement pieces. 
 
 ## First Design 
 
