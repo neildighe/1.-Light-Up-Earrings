@@ -39,12 +39,12 @@ The 3D printer allowed me also to create much more precise holes for the LED pro
 The final 3D printed designs were also tied together by the earring ring and hook. This combined with tight tolerances means that the earring can be completely opened for service without any parts falling off the assembly, which makes the design much more user freindly.
 
 The 3D printer also allowed me to use infill to help hide the battery and better diffuse the light from the LED. I used 30% gyroid infill for both sides of the chassis. 
+![130743520-3c0bfa15-2930-4da0-a79b-4f76a91ac0bd](https://user-images.githubusercontent.com/72219191/131619889-cc9aec52-554c-4503-8f80-65afdc7a4eff.jpg)
 
+**Views of the inside of both halves and the earrings in Solidworks. The third image shows the bottom of the battery casing, which has two holes on either side of the battery for the LED probes to be inserted.**
 ![Capture1](https://user-images.githubusercontent.com/72219191/133000500-8461e324-5bf4-4049-aca6-04bbe6bb0fe2.PNG)
 ![Capture](https://user-images.githubusercontent.com/72219191/133000495-bba98bd0-55fc-4320-81e6-3f03e4172cb9.PNG)
 ![Capture2](https://user-images.githubusercontent.com/72219191/133000464-656ec75f-c3f1-4da4-9e45-4ab98a78e1ca.PNG)
-
-**^(Views of the inside of both halves and the earrings. The third image shows the bottom of the battery casing, which has two holes on either side of the battery for the LED probes to be inserted.)**
 
 ## LED Diffuser Designs 
 
@@ -61,6 +61,6 @@ Overall, I felt like the project was an overwhelming success. Although starting 
 
 ![130743514-f54b9904-02d2-4719-9709-0f4fdf797280](https://user-images.githubusercontent.com/72219191/131620201-bb4ef7cc-a2a7-4741-91a1-d8d4bc569340.jpg)
 ![130743512-1178fd71-5b35-4df1-ae26-d2a1c7a6f4b8](https://user-images.githubusercontent.com/72219191/131619879-424537a5-5d60-4b0d-91ac-00bb52923c2d.jpg)
-![130743520-3c0bfa15-2930-4da0-a79b-4f76a91ac0bd](https://user-images.githubusercontent.com/72219191/131619889-cc9aec52-554c-4503-8f80-65afdc7a4eff.jpg)
+
 ![Snapchat-110317308](https://user-images.githubusercontent.com/72219191/145727099-2bd1c038-4e9e-447c-850f-521b47cb1a97.jpg)
 
