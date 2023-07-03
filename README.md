@@ -54,6 +54,7 @@ The 3D printer also allowed me to use infill to help hide the battery and better
 **^(This image shows all of the different diffuser designs which were used to experiment with many different print settings. In the bottom right you can see the test jig use to find the correct tolerances for the LED hole in the diffusers.)**
 
 After switching to 3D printed designs, I created 3 designs: a "foxhead", teardrop, and circular design. I did not do any surface finishing to the parts since I was worried that I would over sand and ruin the tolerances and create lopsided faces. The diffusers look somewhat unfinished when not lit up. When lit-up however they all have their own characteristics and look great.
+![130743512-1178fd71-5b35-4df1-ae26-d2a1c7a6f4b8](https://user-images.githubusercontent.com/72219191/131619879-424537a5-5d60-4b0d-91ac-00bb52923c2d.jpg)
 
 The diffusers all friction fit onto the LEDs and have a satisfying snap or "push" depending on what type of LED is used. Finding the correct dimensions for the hole took quite a few iterations. I ended up either using 80% or 100% gyroid infill for the diffusers. 
 
@@ -61,7 +62,4 @@ The diffusers all friction fit onto the LEDs and have a satisfying snap or "push
 Overall, I felt like the project was an overwhelming success. Although starting I felt that the project may hit a dead end, the transition to 3D printing really allowed me to perfect my design and create a well thought out piece of jewelry. I do wish I was more consfident with 3D printed finishing techniques, because I hate the change in surface texture that happens half way up on the LED Diffuers, but otherwise everything turned out great. 
 
 ![130743514-f54b9904-02d2-4719-9709-0f4fdf797280](https://user-images.githubusercontent.com/72219191/131620201-bb4ef7cc-a2a7-4741-91a1-d8d4bc569340.jpg)
-![130743512-1178fd71-5b35-4df1-ae26-d2a1c7a6f4b8](https://user-images.githubusercontent.com/72219191/131619879-424537a5-5d60-4b0d-91ac-00bb52923c2d.jpg)
-
-![Snapchat-110317308](https://user-images.githubusercontent.com/72219191/145727099-2bd1c038-4e9e-447c-850f-521b47cb1a97.jpg)
 
