@@ -17,6 +17,7 @@ My next design used small magnets. These were much easier to use but added  more
 PHOTO OF ACRYLIC DESIGNS 
 
 The electrical components needed to be as simple as possible. Using just a 3.3 volt coin battery and a 3 volt LED ended up being a perfect solution for simplicity, cost, and weight savings.  
+![130743514-f54b9904-02d2-4719-9709-0f4fdf797280](https://user-images.githubusercontent.com/72219191/131620201-bb4ef7cc-a2a7-4741-91a1-d8d4bc569340.jpg)
 
 To allow the LEDs to be easily swapped I decided to use the LED probes as their own retention mechanism. I designed the chassis to accept slightly binward bent probes. These applied enough tension to keep consistent contact with both sides of the coin battery
 
@@ -61,5 +62,5 @@ The diffusers all friction fit onto the LEDs and have a satisfying snap or "push
 ## Conclusion
 Overall, I felt like the project was an overwhelming success. Although starting I felt that the project may hit a dead end, the transition to 3D printing really allowed me to perfect my design and create a well thought out piece of jewelry. I do wish I was more consfident with 3D printed finishing techniques, because I hate the change in surface texture that happens half way up on the LED Diffuers, but otherwise everything turned out great. 
 
-![130743514-f54b9904-02d2-4719-9709-0f4fdf797280](https://user-images.githubusercontent.com/72219191/131620201-bb4ef7cc-a2a7-4741-91a1-d8d4bc569340.jpg)
+
 
