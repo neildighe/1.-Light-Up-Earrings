@@ -6,30 +6,31 @@
 
 I came up with the project after thinking about cool jewelry I could make for my girlfriend.I had wanted to make the earring as simple as possible to use, disassemble, service, and find replacement parts for. I think I was successful in all these aspects as well as in creating cool and intriguing statement pieces.
 
-### Material Choice and Design 
+### Initial Designs 
 
 I used acrylic for the first design since I did not want to have to deal with my 3D printer. This material made the main housing clear, which fully showed the battery and was a poor diffuser of light. The acrylic was also unable to provide enough clamping force to create a solid connection between the battery faces and the probes. 
-
-
-The electrical components needed to be as simple as possible. Using just a 3.3 volt coin battery and a 3 volt LED ended up being a perfect solution for simplicity, cost, and weight savings.  
-
-LED PROBE DRAWWING
-
-To allow the LEDs to be easily swapped I decided to use the LED probes as their own retention mechanism. I designed the chassis to accept slightly binward bent probes. These applied enough tension to keep consistent contact with both sides of the coin battery
-
-
-I went with an assortment of solid colored 5mm LEDs as well as a pack of RGB cycling LEDS. The only problem I had using this form factor of LED was that the "purple" LEDs were actually UV. These required more than 3.3 volts to power, leading to an underwealming viewing experince. 
- 
 
 My acrylic designs used two different systems for securing the two earring halves together. The first was two random computer screws self-tapped into the acrylic. These were  bulky, easily chipped the acrylic, and were not long enough to provide a reliable connection. I quickly decided a different system was going to be needed. 
 
 My next design used small magnets. These were much easier to use but added  more weight  and increased the overall size of the battery housings. They also were even worse at holding the sides together and were quickly abandoned.  
 
+PHOTO OF ACRYLIC DESIGNS 
+
+The electrical components needed to be as simple as possible. Using just a 3.3 volt coin battery and a 3 volt LED ended up being a perfect solution for simplicity, cost, and weight savings.  
+
+To allow the LEDs to be easily swapped I decided to use the LED probes as their own retention mechanism. I designed the chassis to accept slightly binward bent probes. These applied enough tension to keep consistent contact with both sides of the coin battery
+
+I went with an assortment of solid colored 5mm LEDs as well as a pack of RGB cycling LEDS. The only problem I had using this form factor of LED was that the "purple" LEDs were actually UV. These required more than 3.3 volts to power, leading to an underwealming viewing experince. 
+
+LED PROBE DRAWWING AND ASSORTMENT OF LEDS PHOTO
+
+
+ 
 ![131619885-9d6a4d3d-b459-42d8-a84b-ebb3a429b0bb](https://user-images.githubusercontent.com/72219191/133016695-ca8907c2-7d0d-4335-8f47-27643d0a409b.jpg)
 
 **^(This image shows my first acrylic designs on the left with the subsequent redesigns (detailed below)**
 
-## 3D Printing 
+## Turning to 3D Printing 
   
 After my acrylic designs showed potential but significant issues in almost every aspect, I decided to use my 3D printer. This meant that I had to print 20+ variations to figure out the correct tolerances, printing settings, and infill patterns. the 3D printer and its glass bed also allowed me to not need to worry about surface finish and have a smooth polished feel straight off the printer. 
 
