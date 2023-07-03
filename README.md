@@ -42,6 +42,7 @@ The 3D printer also allowed me to use infill to help hide the battery and better
 ![130743520-3c0bfa15-2930-4da0-a79b-4f76a91ac0bd](https://user-images.githubusercontent.com/72219191/131619889-cc9aec52-554c-4503-8f80-65afdc7a4eff.jpg)
 
 **Views of the inside of both halves and the earrings in Solidworks. The third image shows the bottom of the battery casing, which has two holes on either side of the battery for the LED probes to be inserted.**
+
 ![Capture1](https://user-images.githubusercontent.com/72219191/133000500-8461e324-5bf4-4049-aca6-04bbe6bb0fe2.PNG)
 ![Capture](https://user-images.githubusercontent.com/72219191/133000495-bba98bd0-55fc-4320-81e6-3f03e4172cb9.PNG)
 ![Capture2](https://user-images.githubusercontent.com/72219191/133000464-656ec75f-c3f1-4da4-9e45-4ab98a78e1ca.PNG)
