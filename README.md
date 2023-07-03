@@ -1,5 +1,5 @@
 
-# Light Up Earings    
+# Light Up Earrings    
 
 ![130743502-4d3e4393-e0c3-4c22-a5b3-375d550cd5b7](https://user-images.githubusercontent.com/72219191/133019025-9370bce6-2b1d-479c-8323-1afc08ca9c91.jpg)
 
@@ -10,24 +10,26 @@ I came up with the project after thinking about cool jewelry I could make for my
 
 I used acrylic for the first design since I did not want to have to deal with my 3D printer. This material made the main housing clear, which fully showed the battery and was a poor diffuser of light. The acrylic was also unable to provide enough clamping force to create a solid connection between the battery faces and the probes. 
 
-### Electrical Components 
 
-The electrical components of the earring needed to be as brain-dead simple as possible for me to feel comfortable giving the earrings as a gift. The meant that the less parts in the circuit the better. LEDs generally need 3 volts to shine brightly, so I found that a 3.3-volt coin battery would be an adequate choice. Although this does slightly overvolt the LED, I felt that the tradeoff in lifetime was worth the simplification in design. I ended up using a CR2016 battery since they have a decent life and are a good size and thickness for the project. 
+The electrical components needed to be as simple as possible. Using just a 3.3 volt coin battery and a 3 volt LED ended up being a perfect solution for simplicity, cost, and weight savings.  
 
-To allow the LEDs to be replaceable (for both serviceability as a well as color choice) I decided to use the LED probes as their own retention mechanism. I designed the chassis to accept slightly bent in probes. These applied enough tension to keep consistent contact with the sides of the LED faces.
+LED PROBE DRAWWING
 
-For the LEDS I went with an assortment of solid colored 5mm LEDs as well as a pack of RGB cycling LEDS. The only problem I had using this form factor of LED was that the "purple" LEDs were actually UV. These require  more than 3.3 volts to power to full brightness. This meant that batteries wear out faster and the LED glows dimmer than the other colors. **This sucks since my girlfriend's favorite color is purple. :(** 
-### Securing Devices 
+To allow the LEDs to be easily swapped I decided to use the LED probes as their own retention mechanism. I designed the chassis to accept slightly binward bent probes. These applied enough tension to keep consistent contact with both sides of the coin battery
 
-My acrylic designs used two different systems for securing the two halves of the earrings together. The first was two random computer screws self-tapped into the acrylic. These were very bulky, easily chipped the acrylic, and were not long enough to solidly hold together the halves. After running out of screws (a lack of matching screws and losing multiple) I decided to use another system. 
 
-My next design used small rare-earth magnets. These were much cleaner but added even more weight to the design and increased the size of the chassis. They also had very poor binding force and caused the LED probes to not make solid contact with the battery faces. After this complete failure I decided that screws would be the way forward. 
+I went with an assortment of solid colored 5mm LEDs as well as a pack of RGB cycling LEDS. The only problem I had using this form factor of LED was that the "purple" LEDs were actually UV. These required more than 3.3 volts to power, leading to an underwealming viewing experince. 
+ 
+
+My acrylic designs used two different systems for securing the two earring halves together. The first was two random computer screws self-tapped into the acrylic. These were  bulky, easily chipped the acrylic, and were not long enough to provide a reliable connection. I quickly decided a different system was going to be needed. 
+
+My next design used small magnets. These were much easier to use but added  more weight  and increased the overall size of the battery housings. They also were even worse at holding the sides together and were quickly abandoned.  
 
 ![131619885-9d6a4d3d-b459-42d8-a84b-ebb3a429b0bb](https://user-images.githubusercontent.com/72219191/133016695-ca8907c2-7d0d-4335-8f47-27643d0a409b.jpg)
 
 **^(This image shows my first acrylic designs on the left with the subsequent redesigns (detailed below)**
 
-## 3D Printed Design 
+## 3D Printing 
   
 After my acrylic designs showed potential but significant issues in almost every aspect, I decided to use my 3D printer. This meant that I had to print 20+ variations to figure out the correct tolerances, printing settings, and infill patterns. the 3D printer and its glass bed also allowed me to not need to worry about surface finish and have a smooth polished feel straight off the printer. 
 
